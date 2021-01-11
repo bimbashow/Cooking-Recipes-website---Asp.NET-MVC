@@ -1,0 +1,9 @@
+C:\Users\raivi\Desktop\CookingRecipes\Services\CookingRecipes.Services.Mapping\bin\Debug\netstandard2.1\CookingRecipes.Services.Mapping.deps.json
+C:\Users\raivi\Desktop\CookingRecipes\Services\CookingRecipes.Services.Mapping\bin\Debug\netstandard2.1\CookingRecipes.Services.Mapping.dll
+C:\Users\raivi\Desktop\CookingRecipes\Services\CookingRecipes.Services.Mapping\bin\Debug\netstandard2.1\CookingRecipes.Services.Mapping.pdb
+C:\Users\raivi\Desktop\CookingRecipes\Services\CookingRecipes.Services.Mapping\obj\Debug\netstandard2.1\CookingRecipes.Services.Mapping.csprojAssemblyReference.cache
+C:\Users\raivi\Desktop\CookingRecipes\Services\CookingRecipes.Services.Mapping\obj\Debug\netstandard2.1\CookingRecipes.Services.Mapping.AssemblyInfoInputs.cache
+C:\Users\raivi\Desktop\CookingRecipes\Services\CookingRecipes.Services.Mapping\obj\Debug\netstandard2.1\CookingRecipes.Services.Mapping.AssemblyInfo.cs
+C:\Users\raivi\Desktop\CookingRecipes\Services\CookingRecipes.Services.Mapping\obj\Debug\netstandard2.1\CookingRecipes.Services.Mapping.csproj.CoreCompileInputs.cache
+C:\Users\raivi\Desktop\CookingRecipes\Services\CookingRecipes.Services.Mapping\obj\Debug\netstandard2.1\CookingRecipes.Services.Mapping.dll
+C:\Users\raivi\Desktop\CookingRecipes\Services\CookingRecipes.Services.Mapping\obj\Debug\netstandard2.1\CookingRecipes.Services.Mapping.pdb

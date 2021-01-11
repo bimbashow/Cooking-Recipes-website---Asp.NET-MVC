@@ -1,0 +1,16 @@
+C:\Users\raivi\Desktop\CookingRecipes\Services\CookingRecipes.Services.Data\bin\Debug\netstandard2.1\CookingRecipes.Services.Data.deps.json
+C:\Users\raivi\Desktop\CookingRecipes\Services\CookingRecipes.Services.Data\bin\Debug\netstandard2.1\CookingRecipes.Services.Data.dll
+C:\Users\raivi\Desktop\CookingRecipes\Services\CookingRecipes.Services.Data\bin\Debug\netstandard2.1\CookingRecipes.Services.Data.pdb
+C:\Users\raivi\Desktop\CookingRecipes\Services\CookingRecipes.Services.Data\bin\Debug\netstandard2.1\CookingRecipes.Data.Common.dll
+C:\Users\raivi\Desktop\CookingRecipes\Services\CookingRecipes.Services.Data\bin\Debug\netstandard2.1\CookingRecipes.Data.Models.dll
+C:\Users\raivi\Desktop\CookingRecipes\Services\CookingRecipes.Services.Data\bin\Debug\netstandard2.1\CookingRecipes.Services.Mapping.dll
+C:\Users\raivi\Desktop\CookingRecipes\Services\CookingRecipes.Services.Data\bin\Debug\netstandard2.1\CookingRecipes.Data.Common.pdb
+C:\Users\raivi\Desktop\CookingRecipes\Services\CookingRecipes.Services.Data\bin\Debug\netstandard2.1\CookingRecipes.Data.Models.pdb
+C:\Users\raivi\Desktop\CookingRecipes\Services\CookingRecipes.Services.Data\bin\Debug\netstandard2.1\CookingRecipes.Services.Mapping.pdb
+C:\Users\raivi\Desktop\CookingRecipes\Services\CookingRecipes.Services.Data\obj\Debug\netstandard2.1\CookingRecipes.Services.Data.csprojAssemblyReference.cache
+C:\Users\raivi\Desktop\CookingRecipes\Services\CookingRecipes.Services.Data\obj\Debug\netstandard2.1\CookingRecipes.Services.Data.AssemblyInfoInputs.cache
+C:\Users\raivi\Desktop\CookingRecipes\Services\CookingRecipes.Services.Data\obj\Debug\netstandard2.1\CookingRecipes.Services.Data.AssemblyInfo.cs
+C:\Users\raivi\Desktop\CookingRecipes\Services\CookingRecipes.Services.Data\obj\Debug\netstandard2.1\CookingRecipes.Services.Data.csproj.CoreCompileInputs.cache
+C:\Users\raivi\Desktop\CookingRecipes\Services\CookingRecipes.Services.Data\obj\Debug\netstandard2.1\CookingRecipes.Services.Data.csproj.CopyComplete
+C:\Users\raivi\Desktop\CookingRecipes\Services\CookingRecipes.Services.Data\obj\Debug\netstandard2.1\CookingRecipes.Services.Data.dll
+C:\Users\raivi\Desktop\CookingRecipes\Services\CookingRecipes.Services.Data\obj\Debug\netstandard2.1\CookingRecipes.Services.Data.pdb

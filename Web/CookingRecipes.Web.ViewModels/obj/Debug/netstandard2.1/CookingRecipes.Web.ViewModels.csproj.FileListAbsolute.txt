@@ -1,0 +1,16 @@
+C:\Users\raivi\Desktop\CookingRecipes\Web\CookingRecipes.Web.ViewModels\bin\Debug\netstandard2.1\CookingRecipes.Web.ViewModels.deps.json
+C:\Users\raivi\Desktop\CookingRecipes\Web\CookingRecipes.Web.ViewModels\bin\Debug\netstandard2.1\CookingRecipes.Web.ViewModels.dll
+C:\Users\raivi\Desktop\CookingRecipes\Web\CookingRecipes.Web.ViewModels\bin\Debug\netstandard2.1\CookingRecipes.Web.ViewModels.pdb
+C:\Users\raivi\Desktop\CookingRecipes\Web\CookingRecipes.Web.ViewModels\bin\Debug\netstandard2.1\CookingRecipes.Data.Common.dll
+C:\Users\raivi\Desktop\CookingRecipes\Web\CookingRecipes.Web.ViewModels\bin\Debug\netstandard2.1\CookingRecipes.Data.Models.dll
+C:\Users\raivi\Desktop\CookingRecipes\Web\CookingRecipes.Web.ViewModels\bin\Debug\netstandard2.1\CookingRecipes.Services.Mapping.dll
+C:\Users\raivi\Desktop\CookingRecipes\Web\CookingRecipes.Web.ViewModels\bin\Debug\netstandard2.1\CookingRecipes.Data.Models.pdb
+C:\Users\raivi\Desktop\CookingRecipes\Web\CookingRecipes.Web.ViewModels\bin\Debug\netstandard2.1\CookingRecipes.Services.Mapping.pdb
+C:\Users\raivi\Desktop\CookingRecipes\Web\CookingRecipes.Web.ViewModels\bin\Debug\netstandard2.1\CookingRecipes.Data.Common.pdb
+C:\Users\raivi\Desktop\CookingRecipes\Web\CookingRecipes.Web.ViewModels\obj\Debug\netstandard2.1\CookingRecipes.Web.ViewModels.csprojAssemblyReference.cache
+C:\Users\raivi\Desktop\CookingRecipes\Web\CookingRecipes.Web.ViewModels\obj\Debug\netstandard2.1\CookingRecipes.Web.ViewModels.AssemblyInfoInputs.cache
+C:\Users\raivi\Desktop\CookingRecipes\Web\CookingRecipes.Web.ViewModels\obj\Debug\netstandard2.1\CookingRecipes.Web.ViewModels.AssemblyInfo.cs
+C:\Users\raivi\Desktop\CookingRecipes\Web\CookingRecipes.Web.ViewModels\obj\Debug\netstandard2.1\CookingRecipes.Web.ViewModels.csproj.CoreCompileInputs.cache
+C:\Users\raivi\Desktop\CookingRecipes\Web\CookingRecipes.Web.ViewModels\obj\Debug\netstandard2.1\CookingRecipes.Web.ViewModels.csproj.CopyComplete
+C:\Users\raivi\Desktop\CookingRecipes\Web\CookingRecipes.Web.ViewModels\obj\Debug\netstandard2.1\CookingRecipes.Web.ViewModels.dll
+C:\Users\raivi\Desktop\CookingRecipes\Web\CookingRecipes.Web.ViewModels\obj\Debug\netstandard2.1\CookingRecipes.Web.ViewModels.pdb

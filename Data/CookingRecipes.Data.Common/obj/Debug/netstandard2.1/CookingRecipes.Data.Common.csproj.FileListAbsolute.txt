@@ -1,0 +1,9 @@
+C:\Users\raivi\Desktop\CookingRecipes\Data\CookingRecipes.Data.Common\bin\Debug\netstandard2.1\CookingRecipes.Data.Common.deps.json
+C:\Users\raivi\Desktop\CookingRecipes\Data\CookingRecipes.Data.Common\bin\Debug\netstandard2.1\CookingRecipes.Data.Common.dll
+C:\Users\raivi\Desktop\CookingRecipes\Data\CookingRecipes.Data.Common\bin\Debug\netstandard2.1\CookingRecipes.Data.Common.pdb
+C:\Users\raivi\Desktop\CookingRecipes\Data\CookingRecipes.Data.Common\obj\Debug\netstandard2.1\CookingRecipes.Data.Common.csprojAssemblyReference.cache
+C:\Users\raivi\Desktop\CookingRecipes\Data\CookingRecipes.Data.Common\obj\Debug\netstandard2.1\CookingRecipes.Data.Common.AssemblyInfoInputs.cache
+C:\Users\raivi\Desktop\CookingRecipes\Data\CookingRecipes.Data.Common\obj\Debug\netstandard2.1\CookingRecipes.Data.Common.AssemblyInfo.cs
+C:\Users\raivi\Desktop\CookingRecipes\Data\CookingRecipes.Data.Common\obj\Debug\netstandard2.1\CookingRecipes.Data.Common.csproj.CoreCompileInputs.cache
+C:\Users\raivi\Desktop\CookingRecipes\Data\CookingRecipes.Data.Common\obj\Debug\netstandard2.1\CookingRecipes.Data.Common.dll
+C:\Users\raivi\Desktop\CookingRecipes\Data\CookingRecipes.Data.Common\obj\Debug\netstandard2.1\CookingRecipes.Data.Common.pdb
