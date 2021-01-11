@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "I3MM071TXDv7pFxsTfwoq9qNOr++GZVMTMHVZUGIBI/O+qBKMSxapNouqzCC1vF19qb/6O6OpS6D59M4FBqwqw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\raivi\\Desktop\\CookingRecipes\\CookingRecipes.Common\\CookingRecipes.Common.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\raivi\\.nuget\\packages\\stylecop.analyzers\\1.2.0-beta.205\\stylecop.analyzers.1.2.0-beta.205.nupkg.sha512",
+    "C:\\Users\\raivi\\.nuget\\packages\\stylecop.analyzers.unstable\\1.2.0.205\\stylecop.analyzers.unstable.1.2.0.205.nupkg.sha512"
+  ],
+  "logs": []
+}
