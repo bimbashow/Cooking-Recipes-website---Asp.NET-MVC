@@ -14,3 +14,5 @@ C:\Users\raivi\Desktop\CookingRecipes\Services\CookingRecipes.Services.Data\obj\
 C:\Users\raivi\Desktop\CookingRecipes\Services\CookingRecipes.Services.Data\obj\Debug\netstandard2.1\CookingRecipes.Services.Data.csproj.CopyComplete
 C:\Users\raivi\Desktop\CookingRecipes\Services\CookingRecipes.Services.Data\obj\Debug\netstandard2.1\CookingRecipes.Services.Data.dll
 C:\Users\raivi\Desktop\CookingRecipes\Services\CookingRecipes.Services.Data\obj\Debug\netstandard2.1\CookingRecipes.Services.Data.pdb
+C:\Users\raivi\Desktop\CookingRecipes\Services\CookingRecipes.Services.Data\bin\Debug\netstandard2.1\CookingRecipes.Web.ViewModels.dll
+C:\Users\raivi\Desktop\CookingRecipes\Services\CookingRecipes.Services.Data\bin\Debug\netstandard2.1\CookingRecipes.Web.ViewModels.pdb

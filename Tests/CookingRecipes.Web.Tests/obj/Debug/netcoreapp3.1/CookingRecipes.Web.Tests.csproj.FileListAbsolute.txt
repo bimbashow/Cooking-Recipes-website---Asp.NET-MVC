@@ -1,0 +1,5 @@
+C:\Users\raivi\Desktop\CookingRecipes\Tests\CookingRecipes.Web.Tests\obj\Debug\netcoreapp3.1\CookingRecipes.Web.Tests.csprojAssemblyReference.cache
+C:\Users\raivi\Desktop\CookingRecipes\Tests\CookingRecipes.Web.Tests\obj\Debug\netcoreapp3.1\CookingRecipes.Web.Tests.AssemblyInfoInputs.cache
+C:\Users\raivi\Desktop\CookingRecipes\Tests\CookingRecipes.Web.Tests\obj\Debug\netcoreapp3.1\CookingRecipes.Web.Tests.AssemblyInfo.cs
+C:\Users\raivi\Desktop\CookingRecipes\Tests\CookingRecipes.Web.Tests\obj\Debug\netcoreapp3.1\CookingRecipes.Web.Tests.csproj.CoreCompileInputs.cache
+C:\Users\raivi\Desktop\CookingRecipes\Tests\CookingRecipes.Web.Tests\obj\Debug\netcoreapp3.1\CookingRecipes.Web.Tests.MvcApplicationPartsAssemblyInfo.cache

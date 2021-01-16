@@ -436,6 +436,20 @@
         "runtime": {
           "bin/placeholder/CookingRecipes.Services.Mapping.dll": {}
         }
+      },
+      "CookingRecipes.Web.ViewModels/1.0.0": {
+        "type": "project",
+        "framework": ".NETStandard,Version=v2.1",
+        "dependencies": {
+          "CookingRecipes.Data.Models": "1.0.0",
+          "CookingRecipes.Services.Mapping": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/CookingRecipes.Web.ViewModels.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/CookingRecipes.Web.ViewModels.dll": {}
+        }
       }
     }
   },
@@ -1308,6 +1322,11 @@
       "type": "project",
       "path": "../CookingRecipes.Services.Mapping/CookingRecipes.Services.Mapping.csproj",
       "msbuildProject": "../CookingRecipes.Services.Mapping/CookingRecipes.Services.Mapping.csproj"
+    },
+    "CookingRecipes.Web.ViewModels/1.0.0": {
+      "type": "project",
+      "path": "../../Web/CookingRecipes.Web.ViewModels/CookingRecipes.Web.ViewModels.csproj",
+      "msbuildProject": "../../Web/CookingRecipes.Web.ViewModels/CookingRecipes.Web.ViewModels.csproj"
     }
   },
   "projectFileDependencyGroups": {
@@ -1315,6 +1334,7 @@
       "CookingRecipes.Data.Common >= 1.0.0",
       "CookingRecipes.Data.Models >= 1.0.0",
       "CookingRecipes.Services.Mapping >= 1.0.0",
+      "CookingRecipes.Web.ViewModels >= 1.0.0",
       "StyleCop.Analyzers >= 1.2.0-beta.205"
     ]
   },
@@ -1356,6 +1376,9 @@
             },
             "C:\\Users\\raivi\\Desktop\\CookingRecipes\\Services\\CookingRecipes.Services.Mapping\\CookingRecipes.Services.Mapping.csproj": {
               "projectPath": "C:\\Users\\raivi\\Desktop\\CookingRecipes\\Services\\CookingRecipes.Services.Mapping\\CookingRecipes.Services.Mapping.csproj"
+            },
+            "C:\\Users\\raivi\\Desktop\\CookingRecipes\\Web\\CookingRecipes.Web.ViewModels\\CookingRecipes.Web.ViewModels.csproj": {
+              "projectPath": "C:\\Users\\raivi\\Desktop\\CookingRecipes\\Web\\CookingRecipes.Web.ViewModels\\CookingRecipes.Web.ViewModels.csproj"
             }
           }
         }

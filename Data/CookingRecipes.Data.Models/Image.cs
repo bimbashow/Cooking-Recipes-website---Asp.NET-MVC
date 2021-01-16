@@ -1,8 +1,9 @@
-﻿using CookingRecipes.Data.Common.Models;
-using System;
-
-namespace CookingRecipes.Data.Models
+﻿namespace CookingRecipes.Data.Models
 {
+    using System;
+
+    using CookingRecipes.Data.Common.Models;
+
     public class Image : BaseModel<string>
     {
         public Image()

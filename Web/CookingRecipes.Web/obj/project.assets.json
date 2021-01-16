@@ -2938,7 +2938,8 @@
         "dependencies": {
           "CookingRecipes.Data.Common": "1.0.0",
           "CookingRecipes.Data.Models": "1.0.0",
-          "CookingRecipes.Services.Mapping": "1.0.0"
+          "CookingRecipes.Services.Mapping": "1.0.0",
+          "CookingRecipes.Web.ViewModels": "1.0.0"
         },
         "compile": {
           "bin/placeholder/CookingRecipes.Services.Data.dll": {}
