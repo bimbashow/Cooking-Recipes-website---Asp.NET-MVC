@@ -456,3 +456,4 @@ C:\Users\raivi\Desktop\CookingRecipes\Web\CookingRecipes.Web\obj\Debug\netcoreap
 C:\Users\raivi\Desktop\CookingRecipes\Web\CookingRecipes.Web\obj\Debug\netcoreapp3.1\CookingRecipes.Web.pdb
 C:\Users\raivi\Desktop\CookingRecipes\Web\CookingRecipes.Web\obj\Debug\netcoreapp3.1\CookingRecipes.Web.genruntimeconfig.cache
 C:\Users\raivi\Desktop\CookingRecipes\Web\CookingRecipes.Web\obj\Debug\netcoreapp3.1\Razor\Views\Recipes\Create.cshtml.g.cs
+C:\Users\raivi\Desktop\CookingRecipes\Web\CookingRecipes.Web\obj\Debug\netcoreapp3.1\CookingRecipes.Web.MvcApplicationPartsAssemblyInfo.cs

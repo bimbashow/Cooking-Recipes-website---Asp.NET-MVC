@@ -1,0 +1,4 @@
+﻿<StaticWebAssets Version="1.0">
+  <ContentRoot BasePath="/Identity" Path="C:\Users\raivi\.nuget\packages\microsoft.aspnetcore.identity.ui\3.1.9\staticwebassets\V4\" />
+  <ContentRoot BasePath="_content/CookingRecipes.Web" Path="C:\Users\raivi\Desktop\CookingRecipes\Web\CookingRecipes.Web\wwwroot\" />
+</StaticWebAssets>

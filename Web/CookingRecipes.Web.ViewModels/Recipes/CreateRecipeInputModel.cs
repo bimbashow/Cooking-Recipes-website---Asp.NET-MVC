@@ -23,12 +23,14 @@
         public int CookingTime { get; set; }
 
         [Range(1, 100)]
-        public int PortionCount { get; set; }
+        public int PortionsCount { get; set; }
 
         public string AddedByUserId { get; set; }
 
         public int CategoryId { get; set; }
 
         public IEnumerable<RecipeIngredientInputModel> Ingredients { get; set; }
+
+        public IEnumerable<KeyValuePair<string, string>> CategoriesItems { get; set; }
     }
 }

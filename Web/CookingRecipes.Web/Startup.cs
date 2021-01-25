@@ -1,4 +1,4 @@
-﻿namespace CookingRecipes.Web
+﻿    namespace CookingRecipes.Web
 {
     using System.Reflection;
 
@@ -61,6 +61,8 @@
             services.AddScoped(typeof(IRepository<>), typeof(EfRepository<>));
             services.AddScoped<IDbQueryRunner, DbQueryRunner>();
             services.AddTransient<IGetCountsService, GetCountsService>();
+            services.AddTransient<ICategoriesService, CategoriesService>();
+            services.AddTransient<IRecipesService, RecipesService>();
 
             // Application services
             services.AddTransient<IEmailSender, NullMessageSender>();

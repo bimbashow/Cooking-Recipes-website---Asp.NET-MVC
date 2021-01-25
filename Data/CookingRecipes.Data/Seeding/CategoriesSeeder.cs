@@ -1,12 +1,11 @@
-﻿using CookingRecipes.Data.Models;
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
-namespace CookingRecipes.Data.Seeding
+﻿namespace CookingRecipes.Data.Seeding
 {
+    using System;
+    using System.Linq;
+    using System.Threading.Tasks;
+
+    using CookingRecipes.Data.Models;
+
     public class CategoriesSeeder : ISeeder
     {
         public async Task SeedAsync(ApplicationDbContext dbContext, IServiceProvider serviceProvider)
